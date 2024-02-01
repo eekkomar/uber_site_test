@@ -1,0 +1,19 @@
+relative path
+absolute path
+
+
+http://localhost:5500
+
+ABSOLUTE
+/img/uber.png
+
+src
+    index.html
+    img
+        uber.png
+
+RELATIVE
+./img/uber.png 
+"в текущей папке найди папку img и в ней файл ..."
+
+../src/img/uber.png 
